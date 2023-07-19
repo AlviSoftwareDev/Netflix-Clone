@@ -15,8 +15,6 @@ const Row = (props) => {
     });
   }, []);
 
-  // console.log(movies);
-
   const slideLeft = () => {
     let slider = document.getElementById(`slider-${props.id}`);
     slider.scrollLeft -= 500;
