@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+img,
+video,
+svg,
+canvas {
+  @apply select-none;
+}
