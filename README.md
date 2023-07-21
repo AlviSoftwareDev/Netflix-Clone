@@ -1,6 +1,6 @@
 # Netflix Clone with React.js, Vite.js, and Tailwind CSS
 
-<p align="center">
+<p align="center" width="128px">
   <img src="https://github.com/AlviSoftwareDev/Netflix-Clone/blob/main/src/assets/netflix-logo.png" alt="Netflix Clone Logo">
 </p>
 
