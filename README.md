@@ -1,7 +1,7 @@
 # Netflix Clone with React.js, Vite.js, and Tailwind CSS
 
-<p align="center" width="128px">
-  <img src="https://github.com/AlviSoftwareDev/Netflix-Clone/blob/main/src/assets/netflix-logo.png" alt="Netflix Clone Logo">
+<p align="center">
+  <img src="https://github.com/AlviSoftwareDev/Netflix-Clone/blob/main/src/assets/netflix-logo.png" alt="Netflix Clone Logo" class="w-32 h-auto">
 </p>
 
 Welcome to our Netflix Clone repository! This project aims to recreate the popular Netflix streaming platform's user interface using cutting-edge web technologies: React.js, Vite.js, and Tailwind CSS. With this project, you'll get hands-on experience building a responsive and visually stunning web application similar to Netflix.
